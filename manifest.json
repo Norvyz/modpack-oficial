@@ -1,7 +1,24 @@
 {
   "schema": 1,
-  "server": { "name": "Sociolandia", "ip": "sociolandia.servidor.lol" },
-  "modpacks": [],
+  "server": {
+    "name": "Sociolandia",
+    "ip": "sociolandia.servidor.lol"
+  },
+  "modpacks": [
+    {
+      "id": "sociolandia",
+      "name": "Sociolandia",
+      "version": 1,
+      "mc": "26.1.2",
+      "loader": "fabric",
+      "desc": "Modpack oficial con mods, shaders y texturas",
+      "icon": "icons/sociolandia.png",
+      "server": true,
+      "file": "https://github.com/Norvyz/modpack-oficial/releases/download/modpack-sociolandia/Sociolandia-1.mrpack",
+      "sha256": "b65f5be8240817f1fcf4bad9f69c77f6d4814f21384ab03f2453a3f8e5f4ae12",
+      "size": 173500938
+    }
+  ],
   "shaders": [],
   "texturepacks": []
 }
