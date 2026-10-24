@@ -13,6 +13,7 @@
       "loader": "fabric",
       "desc": "Modpack oficial con mods, shaders y texturas",
       "icon": "icons/sociolandia.png",
+      "preview": "previews/sociolandia.png",
       "server": true,
       "file": "https://github.com/Norvyz/modpack-oficial/releases/download/modpack-sociolandia/Sociolandia-1.mrpack",
       "sha256": "62a37f22bcc704c9049ded6f6cd5cf04b9b1a7a34d80d327c43b50f288838f7f",
