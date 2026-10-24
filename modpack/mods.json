@@ -1,0 +1,5 @@
+{
+  "mods": ["fabric-api", "sodium", "iris", "lithium", "modmenu"],
+  "shaders": [],
+  "resourcepacks": []
+}

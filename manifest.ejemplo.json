@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "server": { "name": "Sociolandia", "ip": "sociolandia.servidor.lol" },
+  "modpacks": [
+    {
+      "id": "sociolandia",
+      "name": "Sociolandia",
+      "version": 1,
+      "mc": "26.1.2",
+      "loader": "fabric",
+      "author": "Base Launcher",
+      "desc": "El modpack oficial: mods, shaders y texturas listos, con el servidor ya en tu lista.",
+      "icon": "icons/sociolandia.png",
+      "server": true,
+      "file": "https://github.com/Norvyz/modpack-oficial/releases/download/modpack-sociolandia/Sociolandia-1.mrpack",
+      "sha256": "(lo calcula tools/agregar.js)",
+      "size": 0
+    }
+  ],
+  "shaders": [
+    {
+      "id": "nombre-del-shader",
+      "name": "Nombre del shader",
+      "version": 1,
+      "mc": "26.1.2",
+      "desc": "Qué lo hace especial, en una o dos frases.",
+      "preview": "previews/nombre-del-shader.jpg",
+      "file": "https://github.com/Norvyz/modpack-oficial/releases/download/shader-nombre/Nombre-Shader.zip",
+      "sha256": "(lo calcula tools/agregar.js)",
+      "size": 0
+    }
+  ],
+  "texturepacks": [
+    {
+      "id": "nombre-de-la-textura",
+      "name": "Nombre de la textura",
+      "version": 1,
+      "mc": "26.1.2",
+      "desc": "Resolución, estilo, etc.",
+      "preview": "previews/nombre-de-la-textura.jpg",
+      "file": "https://github.com/Norvyz/modpack-oficial/releases/download/textura-nombre/Nombre-Textura.zip",
+      "sha256": "(lo calcula tools/agregar.js)",
+      "size": 0
+    }
+  ]
+}

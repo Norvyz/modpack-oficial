@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "server": { "name": "Sociolandia", "ip": "sociolandia.servidor.lol" },
+  "modpacks": [],
+  "shaders": [],
+  "texturepacks": []
+}
