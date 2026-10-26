@@ -11,13 +11,13 @@
       "version": 1,
       "mc": "26.1.2",
       "loader": "fabric",
-      "desc": "Modpack oficial con mods, shaders y texturas para el servidor Sociolandia.",
+      "desc": "Modpack oficial con mods, shaders y texturas",
       "icon": "icons/sociolandia.png",
-      "preview": "previews/sociolandia.png",
+      "preview": "previews/sociolandia.jpg",
       "server": true,
       "file": "https://github.com/Norvyz/modpack-oficial/releases/download/modpack-sociolandia/Sociolandia-1.mrpack",
-      "sha256": "e8d8f5f519b94a9b9150b68325a750548bb4d83899ef5a1fbafe7ba229111496",
-      "size": 203876564
+      "sha256": "878f4ebc45f753947cfd014a1a87443e6c5539bbda831bfeb85972a6c7d962f5",
+      "size": 211814905
     }
   ],
   "shaders": [],
